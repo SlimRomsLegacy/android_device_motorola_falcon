@@ -7,6 +7,6 @@ TARGET_SCREEN_HEIGHT := 1280
 
 # Release name
 PRODUCT_RELEASE_NAME := MOTO G
-PRODUCT_NAME := cm_falcon
+PRODUCT_NAME := carbon_falcon
 
 $(call inherit-product, device/motorola/falcon/full_falcon.mk)
